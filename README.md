@@ -1,2 +1,0 @@
-# seoo
-seo.txt

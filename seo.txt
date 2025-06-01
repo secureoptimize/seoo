@@ -1,4 +1,4 @@
-<!-- Yaşlı Kurt Backlink -->
+<!-- Yaşlı Kurt -->
 <div style='overflow: auto; position: absolute; height: 0pt; width: 0pt;'>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -9,4 +9,4 @@
 <a href="https://www.hpizmirservis.com/" title="hp servis izmir" rel="dofollow">hp servis izmir</a>
 <a href="https://www.acerizmirservis.com/" title="acer servis izmir" rel="dofollow">acer servis izmir</a>
 </div>
-<!-- Yaşlı Kurt Backlink -->
+<!-- Yaşlı Kurt -->

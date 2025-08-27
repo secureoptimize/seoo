@@ -8,7 +8,6 @@
 <a href="https://asusteknikservisizmir.com/" title="asus servis izmir" rel="dofollow">asus servis izmir</a>
 <a href="https://www.hpizmirservis.com/" title="hp servis izmir" rel="dofollow">hp servis izmir</a>
 <a href="https://www.acerizmirservis.com/" title="acer servis izmir" rel="dofollow">acer servis izmir</a>
-<a href='https://xhost.tr/' rel='dofollow' title='vds kirala'>vds kirala</a>
-<a href='https://xhost.tr/' rel='dofollow' title='ryzen vds'>ryzen vds</a>
+<a href='https://www.kalilinuxlogs.com/' rel='dofollow' title='Kali Linux'>Kali Linux</a>
 </div>
 <!-- Yaşlı Kurt -->

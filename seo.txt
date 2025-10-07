@@ -18,5 +18,6 @@
 <a href="https://www.acerizmirservis.com/" title="acer servis izmir" rel="dofollow">acer servis izmir</a>
 <a href='https://www.kalilinuxlogs.com/' rel='dofollow' title='Kali Linux'>Kali Linux</a>
 <a href='https://www.yakamozsurucukursu.com/' rel='dofollow' title='İzmir Sürücü Kursu'>İzmir Sürücü Kursu</a>
+<a href='https://www.jetto.net/' rel='dofollow' title='Software Forum'>Software Forum</a>
 </div>
 <!-- Yaşlı Kurt -->
